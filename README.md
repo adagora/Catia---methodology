@@ -1,4 +1,6 @@
 # Catia--methodology.
-Some methods to stabilize ours models
+Some methods to stabilize our flow/design process
 
-you can use them by power copy inside CATIA V5 
+How to use them?
+By Tools --> PowerCopy inside CATIA V5.
+
